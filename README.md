@@ -1,6 +1,6 @@
 ### Christina Heil, PhD (she/her)
 
-#### Scientist with strong background in chemistry and biology and with bioinformatic skills
+#### Scientist with bioinformatic skills and strong background in chemistry and biology
 
 ###### Programming languages:
 
@@ -9,3 +9,7 @@
 ###### Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,vim,docker)](https://skillicons.dev)
+
+###### Practice:
+
+[![Profile badge](https://www.codewars.com/users/hitowie/badges/large)](https://www.codewars.com/users/hitowie/)
