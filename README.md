@@ -1,6 +1,6 @@
 ### Christina Heil, PhD (she/her)
 
-#### Scientist with bioinformatic skills and a strong background in chemistry and biology
+#### Scientist with bioinformatic skills and a strong background in chemistry and biology.
 
 ###### Programming languages:
 
