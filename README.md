@@ -8,7 +8,7 @@
 
 ###### Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,vim,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,vscode,vim,docker,postgres)](https://skillicons.dev)
 
 ###### Practice:
 
